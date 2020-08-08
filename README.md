@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-### I am currently working on a Book Recommendation app using kNN (k - Nearest Neighbours)
-### Ask me about: Python, HTML, CSS, JavaScript 
+### I am currently working on a Book Recommendation app using kNN (k-Nearest Neighbours)
+### Ask me about: Python, HTML, CSS, C and JavaScript 
 
 <!--
 **ritwik15416/ritwik15416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
