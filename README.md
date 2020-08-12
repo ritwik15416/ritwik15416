@@ -2,11 +2,11 @@
 
 ### I am currently working on a Book Recommendation app using kNN (k-Nearest Neighbours)
 ### Ask me about: Python, HTML, CSS, C and JavaScript 
-### I am also a Competitive programmer. View my submissions here:
-  * Hackerearth: https://www.hackerearth.com/submissions/ritwikjha141/
-  * CodeForces: https://codeforces.com/submissions/ritwikjha141
+### I am also a Competitive programmer. View my profiles here:
+  * Hackerearth: https://www.hackerearth.com/@ritwikjha141
+  * CodeForces: https://codeforces.com/profile/ritwikjha141
   * Hackerrank: https://www.hackerrank.com/submissions/all
-  * GeeksforGeeks: https://practice.geeksforgeeks.org/submissions.php
+  * GeeksforGeeks: https://auth.geeksforgeeks.org/user/user_9qna/profile
   
 ### Connect with me:
    * LinkedIn: https://www.linkedin.com/in/ritwik-jha-2353151a5
