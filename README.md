@@ -5,11 +5,13 @@
 ### I am also a Competitive programmer. View my profiles here:
   * Hackerearth: https://www.hackerearth.com/@ritwikjha141
   * CodeForces: https://codeforces.com/profile/ritwikjha141
-  * Hackerrank: https://www.hackerrank.com/submissions/all
+  * Hackerrank: https://www.hackerrank.com/RitwikJha
   * GeeksforGeeks: https://auth.geeksforgeeks.org/user/user_9qna/profile
+  * Spoj: https://spoj.com/users/ritwik_jha
   
 ### Connect with me:
    * LinkedIn: https://www.linkedin.com/in/ritwik-jha-2353151a5
+   * Twitter handle: @Ritwik1501
   
 
 <!--
