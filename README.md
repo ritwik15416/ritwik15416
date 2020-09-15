@@ -6,7 +6,8 @@
   * HackerEarth: https://www.hackerearth.com/@ritwikjha141
   * CodeForces: https://codeforces.com/profile/ritwikjha141
   * HackerRank: https://www.hackerrank.com/RitwikJha
-  * GeeksforGeeks: https://auth.geeksforgeeks.org/user/ritwik_jha/profile   (University rank #4)
+  * GeeksforGeeks: https://auth.geeksforgeeks.org/user/ritwik_jha/profile   (College rank #4)
+  * CodeChef: https://www.codechef.com/users/ritwik_jha 
   
 ### Connect with me:
    * LinkedIn: https://www.linkedin.com/in/ritwik-jha-2353151a5
