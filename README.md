@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-### I am currently working on a Text to Speech Converting Web App.
 ### Ask me about: Python, HTML, CSS, C, C++ and JavaScript 
 ### I am also a Competitive programmer. View my profiles here:
   * HackerEarth: https://www.hackerearth.com/@ritwikjha141
